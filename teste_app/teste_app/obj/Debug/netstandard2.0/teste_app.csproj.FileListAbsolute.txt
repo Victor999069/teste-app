@@ -1,0 +1,15 @@
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\obj\Debug\netstandard2.0\teste_app.csproj.AssemblyReference.cache
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\obj\Debug\netstandard2.0\teste_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\obj\Debug\netstandard2.0\teste_app.AssemblyInfoInputs.cache
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\obj\Debug\netstandard2.0\teste_app.AssemblyInfo.cs
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\obj\Debug\netstandard2.0\teste_app.csproj.CoreCompileInputs.cache
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\bin\Debug\netstandard2.0\teste_app.deps.json
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\bin\Debug\netstandard2.0\teste_app.dll
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\bin\Debug\netstandard2.0\ref\teste_app.dll
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\bin\Debug\netstandard2.0\teste_app.pdb
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\obj\Debug\netstandard2.0\teste_app.dll
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\obj\Debug\netstandard2.0\refint\teste_app.dll
+C:\Users\regin\source\repos\teste_app\teste_app\teste_app\obj\Debug\netstandard2.0\teste_app.pdb
